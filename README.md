@@ -1,0 +1,2 @@
+Certificate Deployment with Intune & Windows Server (NDES + SCEP)
+This repository contains a step-by-step guide for securely deploying certificates using Microsoft Intune and Windows Server's NDES with SCEP. It is ideal for beginners who are new to certificate-based authentication and want to improve device security in their organization.
